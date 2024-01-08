@@ -1,0 +1,53 @@
+.indeed {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #6C3428;
+    
+}
+a {
+    font-size: 26px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1mm;
+    color: #7360df;
+
+    
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.5mm;
+    font-weight: bold;
+    color: #6C3428;
+    
+}
+
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+div {
+    background-color: #F7B787;
+    border-radius: 25px;
+    padding: 5px;
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+}
+h3 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 14px;
+}
+#email {
+    color: #7360df;
+}
+
+a:hover {
+ color: lightcoral;
+}
+
+.amnotlikehim:hover {
+    color: red;
+}
